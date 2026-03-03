@@ -1,0 +1,7 @@
+medical-image-denoising/
+│
+├── images/
+├── results/
+├── main.py
+├── requirements.txt
+└── README.md
